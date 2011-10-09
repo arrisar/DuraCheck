@@ -1,0 +1,6 @@
+name: DuraCheck
+main: arrisar.DuraCheck.DuraCheck
+version: 1.0
+commands:
+  dura:
+    description: Check durability of item in hand.
